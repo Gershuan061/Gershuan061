@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Gershuan061
-- 👀 I’m interested in Ethical Hacking ...
-- 🌱 I’m currently learning Cybercrime ...
-- 💞️ I’m looking to collaborate on any either someone who's looking to help youngin' ...
-- 📫 How to reach me ...
+Hi, my name is Gershuan
+Welcome to my profile, I am a Student of Cybercrime & software engineer with no experience.
 
-<!---
-Gershuan061/Gershuan061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Get in touch:
+
+Curriculum: pdf source
+
+Github: github.com/Gershuan061
+
+Linkedin: linkedin.com/in/wilbert-gershuan-133b7656
+
+
